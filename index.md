@@ -14,12 +14,12 @@ Reference:    [Doc Folder]
 Title:        [Theoretical Aspects of Generative Adversarial Nets (GAN)](https://github.com/niclab524/GroupMeeting/tree/master/doc/20180918/slides0918_2018.pdf)  
   
 Speaker:      Wei-Ning Chen  
-  
+ 
 Reference:    [Doc Folder]
 
   
 ### 2018 09/11
-Title:        [Gradient Learning in Non-Euclidean Space](https://github.com/niclab524/GroupMeeting/tree/master/doc/20180911/slides0911_2018.pdf)  
+Title:        [Gradient Learning in Non-Euclidean Space](https://github.com/niclab524/GroupMeeting/doc/20180911/slides0911_2018.pdf)  
   
 Speaker:      Tsung-Wei Chiang  
   
