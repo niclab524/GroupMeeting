@@ -11,7 +11,7 @@ Reference:    [Doc Folder]
   
   
 ### 2018 09/18
-Title:        [Theoretical Aspects of Generative Adversarial Nets (GAN)](https://github.com/niclab524/GroupMeeting/tree/master/doc/20180918/slides0918_2018.pdf)  
+Title:        [Theoretical Aspects of Generative Adversarial Nets (GAN)](./doc/20180918/slides0918_2018.pdf)  
   
 Speaker:      Wei-Ning Chen  
  
