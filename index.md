@@ -8,6 +8,7 @@ Title:        [Crowdsourcing with Attributes](https://niclab524.github.io/GroupM
 Speaker:      Sung-Wen Lan  
   
 Reference:
+ 
 [1] David R. Karger, Sewoong Oh, Devavrat Shah. \"Budget-Optimal Task Allocation for Reliable Crowdsourcing Systems,\" arXiv:1110.3564, 2011
   
   
@@ -17,6 +18,7 @@ Title:        [Theoretical Aspects of Generative Adversarial Nets (GAN)](https:/
 Speaker:      Wei-Ning Chen  
  
 Reference:
+ 
 [1] Ian J. Goodfellow, et. al., \"Generative Adversarial Nets,\" NIPS, 2014
   
 [2] Sebastian Nowozin, et. al., \"f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization,\" NIPS, 2016
@@ -35,6 +37,7 @@ Title:        [Gradient Learning in Non-Euclidean Space](https://niclab524.githu
 Speaker:      Tsung-Wei Chiang  
   
 Reference:
+ 
 [1] S.-i. Amari, \"Natural gradient works efficiently in learning,\" Neural Computation, vol. 10, no. 2, pp. 251–276, 1998.
 [Online]. Available: [https://doi.org/10.1162/089976698300017746](https://doi.org/10.1162/089976698300017746)
 
