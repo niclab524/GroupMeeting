@@ -3,20 +3,26 @@
    
   
 ### 2018 10/12
-Title:        [Crowdsourcing with Attributes](https://github.com/niclab524/GroupMeeting/tree/master/doc/20181012/slides1012_2018)  
+Title:        [Crowdsourcing with Attributes](https://github.com/niclab524/GroupMeeting/tree/master/doc/20181012/slides1012_2018.pdf)  
+  
 Speaker:      Sung-Wen Lan  
+  
 Reference:    [Doc Folder]
   
   
 ### 2018 09/18
-Title:        [Theoretical Aspects of Generative Adversarial Nets (GAN)](https://github.com/niclab524/GroupMeeting/tree/master/doc/20180918/slides0918_2018)  
+Title:        [Theoretical Aspects of Generative Adversarial Nets (GAN)](https://github.com/niclab524/GroupMeeting/tree/master/doc/20180918/slides0918_2018.pdf)  
+  
 Speaker:      Wei-Ning Chen  
+  
 Reference:    [Doc Folder]
 
   
 ### 2018 09/11
-Title:        [Gradient Learning in Non-Euclidean Space](https://github.com/niclab524/GroupMeeting/tree/master/doc/20180911/slides0911_2018)  
+Title:        [Gradient Learning in Non-Euclidean Space](https://github.com/niclab524/GroupMeeting/tree/master/doc/20180911/slides0911_2018.pdf)  
+  
 Speaker:      Tsung-Wei Chiang  
+  
 Reference:    [Doc Folder]
 
  
