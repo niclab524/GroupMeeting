@@ -1,1 +1,31 @@
-theme: jekyll-theme-slate
+# Dependencies
+markdown:         redcarpet
+# highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Networked Information and Communication Lab
+tagline:          
+description:      'Weekly Presentation'
+url:              
+baseurl:          /
+
+author:
+  name:           'NIC Lab'
+  url:            
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:           
+  repo:           https://github.com/niclab524
+
+collections:
+  research:
+    output:         
+permalink: 
