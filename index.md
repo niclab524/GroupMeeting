@@ -1,6 +1,22 @@
 ## Welcome to NIC Lab 
 
-   
+
+### 2018 10/16
+Title:        [Task Recommendation in Crowdsourcing](https://niclab524.github.io/GroupMeeting/doc/20181016/slides1016_2018.pdf)  
+  
+Speaker:      You-Ming Hsu  
+  
+Reference:
+ 
+[1] Yuen, M. C., King, I., Leung, K.S. \"Task recommendation in crowdsourcing systems,\" CrowdKDD, 2012
+
+[2] Ambati,V., Vogel,S., Carbonell,J.G. \"Towards Task Recommendation in Micro-Task Markets,\" AAAI Workshop, 2011
+
+[3] Yuen, M. C., King, I., Leung, K.S. \"Task matching in crowdsourcing,\" iThings/CPSCom, 2011
+
+[4] Eman Aldhahri, Vivek Shandilya, and Sajjan Shiva. \"Towards an Eeffective Crowdsourcing Recommendation System: A Survey of the State-of-the-Art,\" SOSE, 2015
+
+[5] Mnih, Andriy, and Ruslan Salakhutdinov. \"Probabilistic matrix factorization,\" NIPS, 2007
   
 ### 2018 10/12
 Title:        [Crowdsourcing with Attributes](https://niclab524.github.io/GroupMeeting/doc/20181012/slides1012_2018.pdf)  
