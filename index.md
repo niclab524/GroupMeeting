@@ -1,7 +1,7 @@
 ## Welcome to NIC Lab 
 
 
-### 2018 10/12
+### 2018 10/16
 Title:        [Task Recommendation in Crowdsourcing](https://niclab524.github.io/GroupMeeting/doc/20181016/slides1016_2018.pdf)  
   
 Speaker:      You-Ming Hsu  
