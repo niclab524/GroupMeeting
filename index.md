@@ -1,6 +1,13 @@
 ## Welcome to NIC Lab 
 
 
+### 2018 10/23
+Title:        [Graph Neural Networks](https://niclab524.github.io/GroupMeeting/doc/20181012/slides1023_2018.pdf)  
+  
+Speaker:      Chen-Hao Hsiao  
+  
+Reference:
+
 ### 2018 10/16
 Title:        [Task Recommendation in Crowdsourcing](https://niclab524.github.io/GroupMeeting/doc/20181016/slides1016_2018.pdf)  
   
@@ -18,8 +25,8 @@ Reference:
 
 [5] Mnih, Andriy, and Ruslan Salakhutdinov. \"Probabilistic matrix factorization,\" NIPS, 2007
   
-### 2018 10/12
-Title:        [Crowdsourcing with Attributes](https://niclab524.github.io/GroupMeeting/doc/20181012/slides1012_2018.pdf)  
+### 2018 10/02
+Title:        [Crowdsourcing with Attributes](https://niclab524.github.io/GroupMeeting/doc/20181012/slides1002_2018.pdf)  
   
 Speaker:      Sung-Wen Lan  
   
