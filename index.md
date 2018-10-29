@@ -2,21 +2,21 @@
 
 ### Proposed Schedule
 
-<font size=8>2018 12/25:		You-Ming Hsu  </font>
+  <font size=8>2018 12/25:		You-Ming Hsu</font>
 
-<font size=8>2018 12/18:		Sung-Wen Lan  </font>
+  <font size=8>2018 12/18:		Sung-Wen Lan</font>
 
-<font size=8>2018 12/11:		Yu-Hsin Lin  </font>
+  <font size=8>2018 12/11:		Yu-Hsin Lin</font>
 
-<font size=8>2018 12/04:		Wei-Ning Chen  </font>
+  <font size=8>2018 12/04:		Wei-Ning Chen</font>
 
-<font size=8>2018 11/27:		Shih-Yi Yeh  </font>
+  <font size=8>2018 11/27:		Shih-Yi Yeh</font>
 
-<font size=8>2018 11/20:		Hung-Wei Hsu  </font>
+  <font size=8>2018 11/20:		Hung-Wei Hsu</font>
 
-<font size=8>2018 11/13:		Yun-Han Li  </font>
+  <font size=8>2018 11/13:		Yun-Han Li</font>
 
-<font size=8>2018 10/30:		Heng Hsu  </font>
+<font size=8>2018 10/30:		Heng Hsu</font>
 
 ## 
 
