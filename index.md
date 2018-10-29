@@ -11,7 +11,7 @@
 -	2018 11/13:		Yun-Han Li</font>
 -	2018 10/30:		Heng Hsu</font>
 
-## 
+## Presentation
 
 ### 2018 10/23
 Title:        [Graph Neural Networks](https://niclab524.github.io/GroupMeeting/doc/20181012/slides1023_2018.pdf)  
