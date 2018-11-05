@@ -2,19 +2,36 @@
 
 ### Proposed Schedule
 
--	2018 12/25:		You-Ming Hsu
--	2018 12/18:		Sung-Wen Lan</font>
--	2018 12/11:		Yu-Hsin Lin</font>
--	2018 12/04:		Wei-Ning Chen</font>
--	2018 11/27:		Shih-Yi Yeh</font>
--	2018 11/20:		Hung-Wei Hsu</font>
--	2018 11/13:		Yun-Han Li</font>
--	2018 10/30:		Heng Hsu</font>
+-	2019 01/15:
+-	2019 01/08:		
+-	2019 01/01: 
+- 	2018 12/25:		Heng Hsu		
+-	2018 12/18:		You-Ming Hsu
+-	2018 12/11:		Sung-Wen Lan
+-	2018 12/04:		Yu-Hsin Lin
+-	2018 11/27:		Wei-Ning Chen
+-	2018 11/20:		Shih-Yi Yeh
+-	2018 11/13:		Yun-Han Li
 
 ## Presentation
 
+### 2018 11/07
+Title:        [Implicit Regularization and Over-parametrization](https://niclab524.github.io/GroupMeeting/doc/20181107/slides1107_2018.pdf)  
+  
+Speaker:      Hung-Wei Hsu  
+  
+Reference:
+
+
+### 2018 10/30
+Title:        [Adversarial Machine Learning](https://niclab524.github.io/GroupMeeting/doc/20181030/slides1030_2018.pdf)  
+  
+Speaker:      Heng Hsu  
+  
+Reference:
+
 ### 2018 10/23
-Title:        [Graph Neural Networks](https://niclab524.github.io/GroupMeeting/doc/20181012/slides1023_2018.pdf)  
+Title:        [Graph Neural Networks](https://niclab524.github.io/GroupMeeting/doc/20181023/slides1023_2018.pdf)  
   
 Speaker:      Chen-Hao Hsiao  
   
@@ -38,7 +55,7 @@ Reference:
 [5] Mnih, Andriy, and Ruslan Salakhutdinov. \"Probabilistic matrix factorization,\" NIPS, 2007
   
 ### 2018 10/02
-Title:        [Crowdsourcing with Attributes](https://niclab524.github.io/GroupMeeting/doc/20181012/slides1002_2018.pdf)  
+Title:        [Crowdsourcing with Attributes](https://niclab524.github.io/GroupMeeting/doc/20181002/slides1002_2018.pdf)  
   
 Speaker:      Sung-Wen Lan  
   
