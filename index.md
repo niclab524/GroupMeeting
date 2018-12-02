@@ -1,17 +1,13 @@
 ## Welcome to NIC Lab 
 
 ### Proposed Schedule
-
--	2019 01/15:
--	2019 01/08:		
--	2019 01/01: 
-- 	2018 12/25:		Heng Hsu		
--	2018 12/18:		You-Ming Hsu
--	2018 12/11:		Sung-Wen Lan
--	2018 12/04:		Yu-Hsin Lin
--	2018 11/27:		Wei-Ning Chen
--	2018 11/20:		Shih-Yi Yeh
--	2018 11/13:		Yun-Han Li
+ 
+- 2019 01/15:		Heng Hsu		
+-	2019 01/08:		You-Ming Hsu
+-	2018 12/25:		Sung-Wen Lan
+-	2018 12/18:		Yu-Hsin Lin
+-	2018 12/11:		Wei-Ning Chen
+-	2018 12/04:		Shih-Yi Yeh
 
 ## Presentation
 
