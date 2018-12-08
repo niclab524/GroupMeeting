@@ -11,6 +11,14 @@
 
 ## Presentation
 
+### 2018 11/27
+Title:        [Graph Attention Networks](https://niclab524.github.io/GroupMeeting/doc/20181127/slides1107_2018.pdf)  
+  
+Speaker:      Tse-Yu Lin  
+  
+Reference:
+
+
 ### 2018 11/07
 Title:        [Implicit Regularization and Over-parametrization](https://niclab524.github.io/GroupMeeting/doc/20181107/slides1107_2018.pdf)  
   
